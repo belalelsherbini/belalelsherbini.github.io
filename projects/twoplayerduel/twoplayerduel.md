@@ -10,5 +10,5 @@
 
 ## Outcomes
 - Learned how to use FreeRTOS to create **responsive, real time MCU projects**.
-- Gained proficiency with the UART communication protocol for inter device communication.
+- Gained proficiency with the UART communication protocol for **inter device communication**.
 - Learned to quickly peruse **documentation** to find crucial information.
