@@ -8,6 +8,13 @@ University of Wisconsin-Madison (Sep. 2022 - Dec. 2026)
 B.S. **Electrical Engineering**  
 *Posse Full Tuition Leadership Scholarship*
 
+## 🛠️ Skills
+**Embedded Systems:** PSoC6, Arduino, Raspberry Pi, I2C/SPI/UART, sensor integration  
+**CAD & Prototyping:** SolidWorks, 3D printing, enclosure design  
+**Hardware Design:** Altium Designer, LTspice, PCB layout  
+**Programming:** C/C++, Python, MATLAB, Verilog  
+**RF & Microwave:** S-parameters, impedance matching, patch antennas  
+
 ## 🤖 Projects  
 
 ### [🎮 Two Player Tank Duel](/projects/twoplayerduel/twoplayerduel.md)
