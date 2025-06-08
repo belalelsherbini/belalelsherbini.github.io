@@ -7,7 +7,7 @@
   <img src = "/projects/graphicequalizer/ge3.png" width="400" height="200">
 </div>
 
-<div style = "justify-content: center;">
+<div style = "display: flex; gap: 10px; justify-content: center;">
   <img src = "/projects/graphicequalizer/ge2.png" width="500" height="150">
 </div>
 
