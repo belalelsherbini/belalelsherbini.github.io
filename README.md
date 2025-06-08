@@ -30,5 +30,5 @@ _Designed and simulated a 2.45 GHz RF PCB featuring an SMA connector, passive ba
 ### [📊 6 Band Graphic Equalizer](/projects/graphicequalizer/graphicequalizer.md)
 _Developed a 6-band graphic equalizer with user-adjustable gain across frequency bands, mathematically modeled and implemented in Python using Numpy, SciPy, and Tkinter for the GUI._<br>
 <br>
-<img src="/projects/graphicequalizer/ge1.jpeg" width="400" height="250">
+<img src="/projects/graphicequalizer/ge1.png" width="400" height="250">
 
