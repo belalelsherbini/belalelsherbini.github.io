@@ -9,7 +9,7 @@ B.S. **Electrical Engineering**
 *Posse Full Tuition Leadership Scholarship*
 
 ## 🛠️ Skills
-**Embedded Systems:** PSoC6, Arduino, Raspberry Pi, I2C/SPI/UART, sensor integration  
+**Embedded Systems:** PSoC6, FreeRTOS, Arduino, Raspberry Pi, I2C/SPI/UART
 **CAD & Prototyping:** SolidWorks, 3D printing, enclosure design  
 **Hardware Design:** Altium Designer, LTspice, PCB layout  
 **Programming:** C/C++, Python, MATLAB, Verilog  
