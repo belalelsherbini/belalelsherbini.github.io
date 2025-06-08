@@ -25,5 +25,5 @@ _Two-player game built on a PSoC6-based board using C++ and FreeRTOS. Sensors in
 ### [🛜 2.45 GHz RF PCB](/projects/rfpcb/rfpcb.md)
 _Designed and simulated a 2.45 GHz RF PCB featuring an SMA connector, passive bandpass filter, inset-fed patch antenna, and impedance-matched transitions to ensure optimal wireless signal integrity._<br>
 <br>
-<img src="/projects/rfpcb/rfpcb.png" width="500" height="250">
+<img src="/projects/rfpcb/rfpcb1.jpeg" width="500" height="250">
 
