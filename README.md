@@ -20,4 +20,10 @@ B.S. **Electrical Engineering**
 ### [🎮 Two Player Tank Duel](/projects/twoplayerduel/twoplayerduel.md)
 _Two-player game built on a PSoC6-based board using C++ and FreeRTOS. Sensors including joystick, button, and IMU connected via I2C. Data transmitted between boards using UART. FreeRTOS used for real-time controls._<br>
 <br>
-<img src="/projects/twoplayerduel/duel1.png" width="500" height="250">
+<img src="/projects/twoplayerduel/duel1.png" width="500" height="250">  
+
+### [🛜 2.45 GHz RF PCB](/projects/rfpcb/rfpcb.md)
+_Designed and simulated a 2.45 GHz RF PCB featuring an SMA connector, passive bandpass filter, inset-fed patch antenna, and impedance-matched transitions to ensure optimal wireless signal integrity._<br>
+<br>
+<img src="/projects/rfpcb/rfpcb.png" width="500" height="250">
+
