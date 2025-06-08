@@ -7,7 +7,7 @@
 
 <br>
 
-## What I Did
+### What I Did
 - Designed and simulated a **2.45 GHz RF PCB** featuring an **SMA connector**, passive **bandpass filter**, inset-fed **patch antenna**, and impedance-matched transitions to ensure optimal wireless signal integrity.
 
 ### How I Did It
