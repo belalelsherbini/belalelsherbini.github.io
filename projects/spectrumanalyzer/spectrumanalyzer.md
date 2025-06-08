@@ -1,5 +1,7 @@
-<img src = "/projects/spectrumanalyzer/sa2.png" width="400" height="250">
-
+<div style = "display: flex; gap: 10px; justify-content: center;">
+  <img src = "/projects/graphicequalizer/ge5.png" width="400" height="250">
+  <img src = "/projects/spectrumanalyzer/sa2.png" width="400" height="250">
+</div>
 <br>
 
 ### What I Did
