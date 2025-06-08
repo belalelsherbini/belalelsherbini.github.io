@@ -1,9 +1,13 @@
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <img src="/projects/rfpcb/rfpcb2.jpeg" width="300" height="200">
-  <img src="/projects/rfpcb/rfpcb5.jpeg" width="300" height="200">
-  <img src="/projects/rfpcb/rfpcb3.jpeg" width="300" height="200">
-  <img src="/projects/rfpcb/rfpcb4.jpeg" width="300" height="200">
+<div style = "display: flex; gap: 30px;">
+  <img src = "/projects/rfpcb/rfpcb2.jpeg" width="300" height="200">
+  <img src = "/projects/rfpcb/rfpcb5.jpeg" width="300" height="200">
 </div>
+
+<div style = "display: flex; gap: 30px;">
+  <img src = "/projects/rfpcb/rfpcb3.jpeg" width="300" height="200">
+  <img src = "/projects/rfpcb/rfpcb4.jpeg" width="300" height="200">
+</div>
+
 
 <br>
 
