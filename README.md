@@ -30,5 +30,5 @@ _Designed and simulated a 2.45 GHz RF PCB featuring an SMA connector, passive ba
 ### [🌊 Spectrum Analyzer](/projects/spectrumanalyzer/spectrumanalyzer.md)
 _Developed a real-time, GUI-based spectrum analyzer in Python using USB Software Defined Radio, enabling customizable filter visualizations and live frequency domain analysis. Gained hands-on experience with digital signal processing, FFT, and Butterworth filter design._<br>
 <br>
-<img src="/projects/spectrumanalyzer/sa1.png" width="400" height="250">
+<img src="/projects/spectrumanalyzer/sa1.png" width="500" height="250">
 
