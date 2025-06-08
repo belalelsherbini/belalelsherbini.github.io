@@ -12,8 +12,8 @@ B.S. **Electrical Engineering**
 **Embedded Systems:** PSoC6, FreeRTOS, sensor integration (I2C/SPI/UART)  
 **CAD & Prototyping:** SolidWorks, 3D printing, enclosure design  
 **Hardware Design:** Altium Designer, LTspice, PCB layout  
-**Programming:** C/C++, Python, MATLAB, Verilog  
-**RF & Microwave:** S-parameters, impedance matching, patch antennas  
+**Programming:** C/C++, Python, MATLAB, LabVIEW
+**RF & Microwave:** S-parameters, impedance matching, patch antennas, HFSS
 
 ## 🤖 Projects  
 
