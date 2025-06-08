@@ -18,4 +18,4 @@ B.S. **Electrical Engineering**
 ## 🤖 Projects  
 
 ### [🎮 Two Player Tank Duel](/projects/twoplayerduel/twoplayerduel.md)
-<img src="/projects/twoplayerduel/duel1.png" width="200" height="100">
+<img src="/projects/twoplayerduel/duel1.png" width="500" height="250">
