@@ -1,9 +1,9 @@
-<div style = "display: flex; gap: 30px; justify-content: left;">
+<div style = "display: flex; gap: 20px; justify-content: center;">
   <img src = "/projects/graphicequalizer/ge5.png" width="400" height="250">
   <img src = "/projects/graphicequalizer/ge2.png" width="500" height="150">
 </div>
 
-<div style = "display: flex; gap: 30px; justify-content: left;">
+<div style = "display: flex; gap: 20px; justify-content: center;">
   <img src = "/projects/graphicequalizer/ge4.png" width="400" height="200">
   <img src = "/projects/graphicequalizer/ge3.png" width="400" height="200">
 </div>
