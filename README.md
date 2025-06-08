@@ -8,4 +8,6 @@ University of Wisconsin-Madison (Sep. 2022 - Dec. 2026)
 B.S. **Electrical Engineering**  
 *Posse Full Tuition Leadership Scholarship*
 
-## 🤖 Projects
+## 🤖 Projects  
+
+### [🎮 Two Player Tank Duel](/projects/twoplayerduel/twoplayerduel.md)
