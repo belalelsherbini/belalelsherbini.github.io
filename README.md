@@ -18,5 +18,6 @@ B.S. **Electrical Engineering**
 ## 🤖 Projects  
 
 ### [🎮 Two Player Tank Duel](/projects/twoplayerduel/twoplayerduel.md)
-_Two-player game built on a PSoC6-based board using C++ and FreeRTOS. Sensors including joystick, button, and IMU connected via I2C. Data transmitted between boards using UART. FreeRTOS used for real-time controls._  
+_Two-player game built on a PSoC6-based board using C++ and FreeRTOS. Sensors including joystick, button, and IMU connected via I2C. Data transmitted between boards using UART. FreeRTOS used for real-time controls._<br>
+<br>
 <img src="/projects/twoplayerduel/duel1.png" width="500" height="250">
